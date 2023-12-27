@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "TicketTracker",
+    "description": "Monitors airplane ticket prices and alerts you when they fall below a given threshold",
+    "version": "0.1",
+    "action": {
+      "default_popup": "/popup/popup.html",
+      "default_icon": "/images/icon.png"
+    }
+  }
